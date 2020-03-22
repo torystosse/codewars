@@ -8,6 +8,6 @@ This is a repo where I store all of my completed kata on [codewars.com](https://
 
 | Programming Language   | Kata Complete  |
 |:-------|:-------------|
-| Javascript   | 18      |
+| Javascript   | 19      |
 
 [My Codewars profile](https://www.codewars.com/users/torystosse)
