@@ -9,6 +9,6 @@ This is a repo where I store all of my completed kata on [codewars.com](https://
 | Programming Language   | Kata Complete  |
 |:-------|:-------------|
 | Javascript   | 20      |
-| Java   | 7  |
+| Java   | 8  |
 
 [My Codewars profile](https://www.codewars.com/users/torystosse)
